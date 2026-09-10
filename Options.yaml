@@ -1,0 +1,10 @@
+# NOTE: ALL PATHS MUST BE __SINGLE__ QUOTATIONS
+# Path to your Falsebound ISO
+iso_path: 'c:\the\path\to\your\vanilla\Falsebound.iso'
+
+# Path to the temporary directory where it will be exported to for purposes of patching
+# WARNING: All files in this path WILL be deleted, you have been warned
+temp_path: 'c:\the\path\to\your\temp\path'
+
+# Path to the output of this script
+output_path: 'c:\the\path\to\your\cutscene\removed\Falsebound.iso'
